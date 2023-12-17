@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/sarker24/Hms/university-management-core-service-starter/logs/winston/errors/.7ada7b2d97cd973cc4a387aa6b5130e2e2391f9d-audit.json",
+    "files": [
+        {
+            "date": 1702749739906,
+            "name": "/home/sarker24/Hms/university-management-core-service-starter/logs/winston/errors/phu-2023-16-12-19-error.log",
+            "hash": "3373c56cde53ff7b676f384187e7a96c50b8304946537ce9fc7f18c2ef46784d"
+        }
+    ],
+    "hashType": "sha256"
+}
