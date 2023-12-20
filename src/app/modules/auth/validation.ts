@@ -14,7 +14,7 @@ const signUp = z.object({
 const signIn = z.object({
   body: z.object({
     email: z.string({ required_error: 'Email is required' }),
-    password: z.string({ required_error: 'Password is required' })
+    password: z.string({ required_error: 'Password is required' }),
   }),
 });
 
